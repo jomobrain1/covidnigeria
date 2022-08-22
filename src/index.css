@@ -26,8 +26,7 @@ code {
 }
 .table_div{
   overflow: auto;
-  
-}
+  }
 p{
   font-style: normal;
   font-weight: normal;
@@ -42,7 +41,7 @@ td, th{
 table tr:nth-child(even){
 background: #E7E9EB;
 }
-table t
+
 th{
   background: #416fac;
   color: #e9e0e0;
