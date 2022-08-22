@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.App{
+  border: 1px solid red;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 10px 30px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.title{ 
+  
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 50px;
+  color: #4E598C;
+  
+}
+.table_div{
+  overflow: auto;
+  
+}
+p{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 1rem;
+}
+td, th{
+  padding: 1rem 2rem;
+ 
+}
+table tr:nth-child(even){
+background: #E7E9EB;
+}
+table t
+th{
+  background: #416fac;
+  color: #e9e0e0;
+}
